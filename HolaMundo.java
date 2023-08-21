@@ -14,7 +14,7 @@ public class HolaMundo {
 				fl=true;
 		}while(vida < 3 && !fl);
 		if(fl == true)
-			System.out.println("Adiviniaste!!! ");
+			System.out.println("Adiviniaste!!! Ganaste un carro");
 		else
 			System.out.println("ups, perdiste... ");
 	}
